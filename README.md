@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey, I'm Yannik 👋
 
-<!--
-**YannikWeissenfels/YannikWeissenfels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer focused on building modern web apps — mainly with **Vue 3** and **TypeScript**.
 
-Here are some ideas to get you started:
+At [chocoBRAIN](https://github.com/chocoBRAIN) I work on SaaS products, medical web apps and an **AI Gateway for integrating LLM capabilities into JS widgets**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+
+---
+
+## 🔭 What I'm working on
+
+- 🤖 AI Gateway — secure integration of LLM capabilities into JavaScript widgets
+- 🏥 Web apps in the medical sector
+- ☁️ Cloud applications and SaaS products
