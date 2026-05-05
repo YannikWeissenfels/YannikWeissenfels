@@ -21,3 +21,9 @@ At [chocoBRAIN](https://github.com/chocoBRAIN) I work on SaaS products, medical 
 - 🤖 AI Gateway — secure integration of LLM capabilities into JavaScript widgets
 - 🏥 Web apps in the medical sector
 - ☁️ Cloud applications and SaaS products
+
+---
+
+## 📊 GitHub Stats
+
+![Yannik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YannikWeissenfels&show_icons=true&theme=dark&hide_border=true&count_private=true)
